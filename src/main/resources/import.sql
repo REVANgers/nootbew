@@ -1,0 +1,1 @@
+INSERT INTO total_toon (activated, name, day_of_week, thumbnail, updated_at) VALUES(true, '참교육', 2, 'https://shared-comic.pstatic.net/thumb/webtoon/758037/thumbnail/thumbnail_IMAG10_a2297504-4912-4c7e-a5a8-524d6fc77103.jpg', CURRENT_TIMESTAMP());
